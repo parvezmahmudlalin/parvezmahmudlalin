@@ -62,15 +62,7 @@ I'm a **Frontend & MERN Stack Developer** from Bangladesh, currently pursuing an
 
 ---
 
-## 🐍 Contribution Snake
 
-<picture>
-  <img alt="snake" src="https://raw.githubusercontent.com/parvezmahmudlalin/parvezmahmudlalin/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> ⚙️ To activate this, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named exactly `parvezmahmudlalin` (matching your username) — it auto-generates the snake SVG on a schedule.
-
----
 
 ## 📫 Connect With Me
 
