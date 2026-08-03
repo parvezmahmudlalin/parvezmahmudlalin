@@ -46,21 +46,7 @@ I'm a **Frontend & MERN Stack Developer** from Bangladesh, currently pursuing an
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=parvezmahmudlalin&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=parvezmahmudlalin&theme=tokyonight&hide_border=true)
 
-<details>
-<summary>📈 More stats (Top Languages, Trophies, Activity Graph)</summary>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvezmahmudlalin&layout=compact&theme=tokyonight&hide_border=true)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=parvezmahmudlalin&theme=algolia&no-frame=true&row=1)
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=parvezmahmudlalin&theme=tokyo-night&hide_border=true)
-
-</details>
-
----
 
 
 
