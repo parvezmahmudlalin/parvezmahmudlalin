@@ -39,43 +39,10 @@ I'm a **Frontend & MERN Stack Developer** from Bangladesh, currently pursuing an
 
 ## 🌟 Featured Projects
 
-### 🚀 StartupForge
-A full-stack startup collaboration platform where founders can post ideas and build teams.
-**Tech:** Next.js, Express.js, MongoDB (native driver), Better Auth, Stripe
-- Role-based access control & JWT middleware
-- Stripe-powered payments with a custom checkout success flow
-- Zod-based request validation
 
-🔗 [Live Demo](#) &nbsp;|&nbsp; 🖥️ [Client Repo](#) &nbsp;|&nbsp; ⚙️ [Server Repo](#)
 
-### 🩺 DocAppoint
-A doctor appointment booking platform with authentication and a booking dashboard.
-**Tech:** Next.js, Express, MongoDB, Better Auth, HeroUI
-- Patient & doctor dashboards with booking management
-- Secure session handling via Better Auth
-- Fully responsive, redesigned UI across all core pages
 
-🔗 [Live Demo](#) &nbsp;|&nbsp; 🖥️ [Client Repo](#) &nbsp;|&nbsp; ⚙️ [Server Repo](#)
 
-### 📚 BookHub
-A personal book library app with full CRUD and authentication.
-**Tech:** Next.js 15, MongoDB, Better Auth
-- Dark, library-themed UI
-- Built around Next.js 15's async `params`/`searchParams` APIs
-
-🔗 [Live Demo](#) &nbsp;|&nbsp; 🖥️ [Repo](#)
-
-### 💼 Job Tracker
-A dashboard to track job applications and their status.
-**Tech:** Next.js, Tailwind CSS
-- Application status tracking
-- Clean, minimal dashboard UI
-
-🔗 [Live Demo](#) &nbsp;|&nbsp; 🖥️ [Repo](#)
-
-> 🔗 Prottekta `(#)` er jaygay actual GitHub repo link ba live deployment link boshao. Client/Server repo alada hole duita link e boshao, ekshathe hole ekta "Repo" link rakho.
-
----
 
 ## 📊 GitHub Stats
 
