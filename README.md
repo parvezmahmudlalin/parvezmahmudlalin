@@ -39,25 +39,31 @@ I'm a **Frontend & MERN Stack Developer** from Bangladesh, currently pursuing an
 
 ## 🌟 Featured Projects
 
-### 🚀 [StartupForge](https://github.com/parvezmahmudlalin)
+### 🚀 StartupForge
 A full-stack startup collaboration platform where founders can post ideas and build teams.
 **Tech:** Next.js, Express.js, MongoDB (native driver), Better Auth, Stripe
 - Role-based access control & JWT middleware
 - Stripe-powered payments with a custom checkout success flow
 - Zod-based request validation
 
-### 🩺 [DocAppoint](https://github.com/parvezmahmudlalin)
+🔗 [Live Demo](#) &nbsp;|&nbsp; 🖥️ [Client Repo](#) &nbsp;|&nbsp; ⚙️ [Server Repo](#)
+
+### 🩺 DocAppoint
 A doctor appointment booking platform with authentication and a booking dashboard.
 **Tech:** Next.js, Express, MongoDB, Better Auth, HeroUI
 - Patient & doctor dashboards with booking management
 - Secure session handling via Better Auth
 - Fully responsive, redesigned UI across all core pages
 
-### 📚 [BookHub](https://github.com/parvezmahmudlalin)
+🔗 [Live Demo](#) &nbsp;|&nbsp; 🖥️ [Client Repo](#) &nbsp;|&nbsp; ⚙️ [Server Repo](#)
+
+### 📚 BookHub
 A personal book library app with full CRUD and authentication.
 **Tech:** Next.js 15, MongoDB, Better Auth
 - Dark, library-themed UI
 - Built around Next.js 15's async `params`/`searchParams` APIs
+
+🔗 [Live Demo](#) &nbsp;|&nbsp; 🖥️ [Repo](#)
 
 ### 💼 Job Tracker
 A dashboard to track job applications and their status.
@@ -65,7 +71,9 @@ A dashboard to track job applications and their status.
 - Application status tracking
 - Clean, minimal dashboard UI
 
-> 🔗 Replace the project links above with each repo's actual URL, and add a live demo link where deployed.
+🔗 [Live Demo](#) &nbsp;|&nbsp; 🖥️ [Repo](#)
+
+> 🔗 Prottekta `(#)` er jaygay actual GitHub repo link ba live deployment link boshao. Client/Server repo alada hole duita link e boshao, ekshathe hole ekta "Repo" link rakho.
 
 ---
 
